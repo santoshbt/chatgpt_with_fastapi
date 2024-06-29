@@ -186,3 +186,5 @@ fastenv/Scripts/activate
 fastenv/Scripts/activate.bat
 fastenv/Scripts/Activate.ps1
 fastenv/Scripts/deactivate.bat
+chatgpt-fastapi.pem
+chatgpt-fastapi.ppk
