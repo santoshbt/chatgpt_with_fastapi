@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from app.utils import generate_description
+from utils import generate_description
 import logging
 
 app = FastAPI()
